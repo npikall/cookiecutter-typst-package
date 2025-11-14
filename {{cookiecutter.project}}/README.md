@@ -14,6 +14,7 @@ A short description about the project and/or client.
 > - [just] to run the `Justfile Recipes` themselfs
 > - [tytanic] to setup and run tests on your code
 > - [pre-commit] to run the pre-commit hooks (auto formatting your code and other useful things)
+> - [typst-package-check] to run some checks before publishing to the typst universe
 
 - [ ] Fill out `README.md`
   - Check section contents and/or delete sections that don't apply
@@ -83,3 +84,4 @@ A more in-depth description of usage. Any template arguments? A complicated exam
 [tytanic]: https://github.com/typst-community/tytanic
 [pre-commit]: https://pre-commit.com/
 [just]: https://github.com/casey/just
+[typst-package-check]: https://github.com/typst/package-check
