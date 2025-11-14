@@ -1,6 +1,6 @@
 # Cookiecutter for Typst Packages
 
-This `cookiecutter` sets up a fresh package repository for you to start wrting a `typst` template or package.
+This `cookiecutter` sets up a fresh package repository for you to start writing a `typst` template or package.
 
 ## Installation
 
